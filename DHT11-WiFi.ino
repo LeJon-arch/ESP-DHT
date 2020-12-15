@@ -41,13 +41,10 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-//char auth[] = "ZEaZNYynXRCnHClUHkT5lg9vdUFXGgNK"; 
-//char ssid[] = "TP-LINK_C9E28E";
-//char pass[] = "QWer852654";
 
 char auth[] = "gDML_Fz0dxcoWKobDY8msGy_FqFC9EYs"; 
-char ssid[] = "TP-LINKC9E28E";
-char pass[] = "QWer852654";
+char ssid[] = "TP-LINKC******";
+char pass[] = "********";
 
 #define DHTPIN 2          // What digital pin we're connected to
 #define BLYNK_GREEN     "#23C48E"
